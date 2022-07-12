@@ -1,0 +1,8 @@
+.boardOverlay{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    border: 5px solid black;
+    height: 500px;
+    width: 500px;
+    background-color: #555555;
+}

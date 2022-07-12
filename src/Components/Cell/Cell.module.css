@@ -1,0 +1,30 @@
+
+
+.whiteCell{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: #eeeeee;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+.blackCell{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: #555555;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.chessCell{
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80px ;
+}

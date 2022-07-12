@@ -1,0 +1,11 @@
+.overlay{
+    display: grid;
+    grid-template-columns: 8fr 1fr;
+    justify-content: center;
+}
+.gameSpace{
+    width: 500px;
+}
+.notes{
+    align-self: start;
+}
